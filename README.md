@@ -54,9 +54,12 @@ _"You’re not special. Just another person running from reality. Stay sharp."_
 
 ## How to Use
 
-1. **Start a New Trip Log**: Choose your weight system and log your substance and dosage.
-2. **Log Your Trip**: As you go, update your log. Track your descent into madness.
-3. **End the Log**: When it's over, your trip's history is saved. 
+1. **Download the Latest Release**
+2. **Start a New Trip Log**: Choose your weight system and log your substance and dosage.
+3. **Log Your Trip**: As you go, update your log. Track your descent into madness.
+4. **End the Log**: When it's over, type "exit" and your trip's history is saved.
+   
+**Note:** Make sure to keep the .bat file in its own folder. This way, all your logs will save neatly in the same place.
 
 ---
 
